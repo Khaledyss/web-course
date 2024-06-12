@@ -1,1 +1,1 @@
-# web-course
+<h1 style="text-align:center;">My first programming course</h1>
