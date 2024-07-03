@@ -1,1 +1,1 @@
-<h1 style="text-align:center;">My first programming course</h1>
+<h1 style="text-align: center;">My first programming course</h1>
