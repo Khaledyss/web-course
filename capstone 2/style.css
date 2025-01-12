@@ -1,0 +1,90 @@
+.fs-4{
+font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  color: white;
+}
+#navigation{
+    background-color:#2F4F4F;
+    color: white;
+    
+}
+.introduction{
+    font-family: serif,Arial, Helvetica, sans-serif;
+}
+
+.big-image{
+    height: 90vh;
+    position: relative;
+    background-size:cover;
+    background-position: 50% 50%;
+    background-image: url(./Ai\ image2.jpg);
+    
+}
+.overlay{
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background: rgba(0,0,0,0.65);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.pfp{
+    border-radius: 50%;
+    margin-top: 50px;
+}
+
+.intro-p{
+    font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  color: white;
+  font-size: 14pt;
+}
+#navigation{
+    height: 12vh;
+}
+.container-1{
+    padding-top: 30px;
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: gray;
+    
+    
+
+}
+.skills-title{
+    margin-left: 18px;
+    font-family: serif,Arial, Helvetica, sans-serif;
+    
+}
+.team-pic{
+    border-radius: 50%;
+    margin-left: 20px;
+}
+.chiken-pic{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-left: 296px;
+    margin-top: 20px;
+}
+
+
+
+
+
+@media(min-width:0px) and (max-width:1096px){
+    .chiken-pic{
+        margin: 0;
+    }
+}
+
